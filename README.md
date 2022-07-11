@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aloisiopf
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning C# .NET
+- 🌱 I’m currently learning C# .NET with Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
